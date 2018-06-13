@@ -1,2 +1,2 @@
 # SimpleEsp32Obd
-Same as SimpleArduinoOdb but with an ESP32
+Based on the TheForeignMan/SimpleArduinoObd but with ESP32
